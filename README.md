@@ -1,7 +1,7 @@
 ### Hi there, this is Shuairu, Zhu（朱帅儒）👋
-* I am first year Ph.D. student of Shanghai Astronomical Observatory. My advisor is Professor Zheng, Zhenya.
+* I am a second-year Ph.D. student at the Shanghai Astronomical Observatory. My advisor is Professor Zheng, Zhenya.
 * My main interest is the emission line galaxies in high redshift, epoch of reionization. I currently work on
-  the Lyman alpha emiiters @ z～4. I am also study the astronomical images reduction.
+  the Lyman alpha emitters @ z～4. I am also studying astronomical image reduction.
 * 📫 Contacts:
   * My ORCID: [Shuairu Zhu](https://orcid.org/0000-0002-2528-0761)
   * My Github: [sphy2016](https://github.com/sphy2016)
