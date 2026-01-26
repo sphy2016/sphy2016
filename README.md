@@ -1,11 +1,13 @@
-### Hi there, this is Shuairu, Zhu（朱帅儒）👋
-* I am a second-year Ph.D. student at the Shanghai Astronomical Observatory. My advisor is Professor Zheng, Zhenya.
-* My main interest is the emission line galaxies in high redshift, epoch of reionization. I currently work on
-  the Lyman alpha emitters @ z～4. I am also studying astronomical image reduction.
-* 📫 Contacts:
-  * My ORCID: [Shuairu Zhu](https://orcid.org/0000-0002-2528-0761)
-  * My Github: [sphy2016](https://github.com/sphy2016)
- 
+### Hi there, this is Shuairu Zhu (朱帅儒) 👋
+- I am currently a final-year Ph.D. candidate at the Shanghai Astronomical Observatory, Chinese Academy of Sciences, under the supervision of Dr. Zhenya Zheng.
+- My research focuses on the physical properties of high-redshift LyC galaxies and the mechanisms regulating LyC escape, using JWST and HST observations. I also work on identifying new LyC leakers at high redshift with multiwavelength data.
+- I have solid experience in astronomical data analysis, including image reduction and processing with Drizzlepac and Swarp, PSF construction, photometry, and catalog construction with SExtractor and Photutils, SED fitting with CIGALE and BAGPIPES, and image decomposition with GALFIT. I routinely use Python, Bash, and LaTeX for data processing, analysis, and scientific writing, and I am fluent in Chinese (native) with professional working proficiency in English.
+
+* 📫 Info:
+  * ORCID: [Shuairu Zhu](https://orcid.org/0000-0002-2528-0761)
+  * GitHub: [sphy2016](https://github.com/sphy2016)
+  * Personal Website (under heavy construction): [Personal Website](https://sphy2016.github.io/)
+  * ADS Library: [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/IedFDgKGRNupslqZlDBlbw)
 <!--
 **sphy2016/sphy2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
