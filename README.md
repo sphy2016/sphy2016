@@ -1,13 +1,20 @@
-### Hi there, this is Shuairu Zhu (朱帅儒) 👋
-- I am currently a final-year Ph.D. candidate at the Shanghai Astronomical Observatory, Chinese Academy of Sciences, under the supervision of Dr. Zhenya Zheng.
-- My research focuses on the physical properties of high-redshift LyC galaxies and the mechanisms regulating LyC escape, using JWST and HST observations. I also work on identifying new LyC leakers at high redshift with multiwavelength data.
-- I have solid experience in astronomical data analysis, including image reduction and processing with Drizzlepac and Swarp, PSF construction, photometry, and catalog construction with SExtractor and Photutils, SED fitting with CIGALE and BAGPIPES, and image decomposition with GALFIT. I routinely use Python, Bash, and LaTeX for data processing, analysis, and scientific writing, and I am fluent in Chinese (native) with professional working proficiency in English.
+## Shuairu Zhu (朱帅儒)
 
-* 📫 Info:
-  * ORCID: [Shuairu Zhu](https://orcid.org/0000-0002-2528-0761)
-  * GitHub: [sphy2016](https://github.com/sphy2016)
-  * Personal Website (under heavy construction): [Personal Website](https://sphy2016.github.io/)
-  * ADS Library: [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/IedFDgKGRNupslqZlDBlbw)
+## About
+
+I am a final-year Ph.D. candidate at the Shanghai Astronomical Observatory, Chinese Academy of Sciences, under the supervision of Dr. Zhenya Zheng.
+
+- My doctoral research focuses on high-redshift galaxies that may leak Lyman-continuum (LyC) photons. I use HST and JWST observations, photometry, SED fitting, and morphology measurements to connect faint-galaxy observables with ionizing-photon escape.
+- I also focus on space-based telescope data processing. I have completed the reduction and analysis of deep HST narrowband imaging data for the Hubble Deep Hydrogen Alpha (HDHα) project. I plan to extend this work to JWST data processing, including NIRCam grism / NIRCam imaging and NIRSpec data, to better characterize the physical properties of high-redshift galaxies.
+
+## Contact
+
+- Email: [shuairuz@gmail.com](mailto:shuairuz@gmail.com)
+- GitHub: [github.com/sphy2016](https://github.com/sphy2016)
+- ORCID: [0000-0002-2528-0761](https://orcid.org/0000-0002-2528-0761)
+- Google Scholar: [Google Scholar profile](https://scholar.google.com/citations?user=FqewxcwAAAAJ&hl=en)
+- NASA/ADS: [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/IedFDgKGRNupslqZlDBlbw)
+- Location: Shanghai, China
 <!--
 **sphy2016/sphy2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
