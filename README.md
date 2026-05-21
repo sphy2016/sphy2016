@@ -9,7 +9,7 @@ I am a final-year Ph.D. candidate at the Shanghai Astronomical Observatory, Chin
 
 ## Contact
 
-- Email: [shuairuz@gmail.com](mailto:shuairuz@gmail.com)
+- Personal Website: [sphy2016.github.io](https://sphy2016.github.io/)
 - GitHub: [github.com/sphy2016](https://github.com/sphy2016)
 - ORCID: [0000-0002-2528-0761](https://orcid.org/0000-0002-2528-0761)
 - Google Scholar: [Google Scholar profile](https://scholar.google.com/citations?user=FqewxcwAAAAJ&hl=en)
